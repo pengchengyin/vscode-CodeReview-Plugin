@@ -1,0 +1,11 @@
+# 忽略不必要的文件
+.vscode/**
+.vscode-test/**
+test/**
+*.md
+*.log
+*.tsbuildinfo
+.git/**
+.gitignore
+tsconfig.json
+.vscodeignore
