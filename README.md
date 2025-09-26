@@ -25,6 +25,7 @@
 ### 方法二：从源码编译安装
 
 1. 克隆或下载源码
+https://github.com/pengchengyin/vscode-CodeReview-Plugin.git
 2. 在项目根目录运行：
    ```bash
    npm install

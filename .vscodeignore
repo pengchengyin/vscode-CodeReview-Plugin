@@ -9,3 +9,4 @@ test/**
 .gitignore
 tsconfig.json
 .vscodeignore
+vscode-code-review-helper-*.vsix
