@@ -2,7 +2,7 @@
 
 针对vscode,一个简单易用的代码检视问题记录工具，支持团队协同。
 
-感谢https://github.com/veezean提供该工具，本插件是基于idea插件来复刻的。
+感谢 https://github.com/veezean 提供该工具，本插件是基于idea插件来复刻的。
 
 ## 功能特性
 
