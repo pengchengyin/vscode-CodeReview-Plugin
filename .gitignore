@@ -1,1 +1,13 @@
-vscode-code-review-helper-4.2.2.vsix
+.vscode/**
+.vscode-test/**
+test/**
+*.md
+*.log
+*.tsbuildinfo
+.git/**
+.gitignore
+tsconfig.json
+.vscodeignore
+vscode-code-review-helper-*.vsix
+out/**
+node_modules/**
